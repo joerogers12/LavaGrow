@@ -1,4 +1,8 @@
 # LavaGrow
+
+Started: 10/19/2024
+Last Updated: 10/19/2024
+
 Track, manage, and plan the growth of your crops
 
 LavaGrow was built out of the desire for an efficient and effective way for small farms to manage the production of their land. 
