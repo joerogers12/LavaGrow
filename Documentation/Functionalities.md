@@ -8,11 +8,29 @@ This document will provide a deeper explanation of each of the main functionalit
 
 - Task Manager
 	- User Assignment
+	- Custom workday flow
+	- Able to check off tasks
 
 - Field Mapping
 
 - Harvest Records
+	- Able to change crops input
+	- Predefined input fields
+	- Simple, responsive text entries
 
 - Recordkeeping Storage
+	- Cloud storage
+	- Certification organization
 
-- Sketch
+- Sketchpad
+
+- Notepad  
+
+- Data View Generation
+	- Export options
+	- Custom tracking selections
+	- Send out progress reports to interested parties
+
+- Seed and Amendment Requirements Projections
+
+- Financial Analysis Tool
