@@ -1,4 +1,4 @@
-# Functionalities
+# Initial Functionalities
 
 This document expands upon the requirements identified in the Requirements document to identify the high level functionalities of the software. 
 Each of the funcionalities will then be broken down into more implementable details in the next document.
@@ -22,6 +22,9 @@ Each of the funcionalities will then be broken down into more implementable deta
 	- Sketch up plans for farm layout
 		- Different from field mapping? 
 		- Maybe general sketching tool that can be integrated into mapping tool
+	- Manage the irrigation system
+		- Map of irrigation lines with data
+		- Timeline view with analysis/recommendations maybe
 
 
 - Farm Worker
