@@ -16,6 +16,7 @@ Primary:
 	- Store and analyze data on harvests
 	- Keep records for audits
 	- Sketch up plans for farm layout
+	- Manage the irrigation systems
 
 
 - Farm Worker
