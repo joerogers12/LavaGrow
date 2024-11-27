@@ -15,6 +15,8 @@ This document will provide a deeper explanation of each of the main functionalit
 	- This could also cover permaculture design techniques and aid in designing those farms
 
 - Crop Harvest Yield Calculator
+	- Could be a separate page with the analysis of harvests
+	- Layout would provide estimated profits etc. per week, month, year, etc.
 
 - Task Manager
 	- User Assignment
