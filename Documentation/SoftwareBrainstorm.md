@@ -2,5 +2,5 @@ This document serves as a brainstorming space for the architectural and programm
 
 Seeding Planner
 
-Class Hierarchy
-- 
+Phase 1:
+- Create a grid layout in QT with the ability to input sizes and titles
