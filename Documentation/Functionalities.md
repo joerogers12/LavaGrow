@@ -46,3 +46,14 @@ This document will provide a deeper explanation of each of the main functionalit
 - Seed and Amendment Requirements Projections
 
 - Financial Analysis Tool
+
+-Application Flow
+	- User opens the app to the overall crop plan dashboard
+	- There are tabs located on one edge of the screen with the other features
+		- Tasks
+		- Map
+		- Records
+		- Sketch/notes
+		- Data
+		- Seed/amendment management
+		- Finances
