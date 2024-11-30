@@ -22,6 +22,7 @@ Each of the funcionalities will then be broken down into more implementable deta
 	- Sketch up plans for farm layout
 		- Different from field mapping? 
 		- Maybe general sketching tool that can be integrated into mapping tool
+		- Will require access to a drawing tool, tablet ideal
 	- Manage the irrigation system
 		- Map of irrigation lines with data
 		- Timeline view with analysis/recommendations maybe
@@ -30,6 +31,7 @@ Each of the funcionalities will then be broken down into more implementable deta
 - Farm Worker
 	- Easily access the software while out in the wet and dirty fields
 		- Non-functional, should run on mobile devices with quickly accessible UI
+		- This requires a tablet or phone
 	- Quickly and accurately input data on harvests
 		- Recordkeeping component with very intuitive, predefined input fields and simple, responsive text entries
 	- Add to and edit crops on the record
