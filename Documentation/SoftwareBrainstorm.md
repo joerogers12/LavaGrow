@@ -7,4 +7,5 @@ Seeding Planner
 - React seems to be the best choice for future scalability and integration with mobile devices
 
 Phase 1:
-- Create a grid layout in QT with the ability to input sizes and titles
+- Learn the basics of React to begin the project
+- Create a grid view of some type for planning crops
