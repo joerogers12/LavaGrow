@@ -9,3 +9,6 @@ Seeding Planner
 Phase 1:
 - Learn the basics of React to begin the project
 - Create a grid view of some type for planning crops
+- Create a recordkeeping database
+	- Maybe this should use something like sql in the backend??
+- 

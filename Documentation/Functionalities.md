@@ -22,8 +22,10 @@ This document will provide a deeper explanation of each of the main functionalit
 	- User Assignment
 	- Custom workday flow
 	- Able to check off tasks
+	- Maybe this could be an API to a preexisting task manager app
 
 - Field Mapping
+	- Maybe this could be use an API to Google Maps or something
 
 - Harvest Records
 	- Able to change crops input
