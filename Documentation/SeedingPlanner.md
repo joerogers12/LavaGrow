@@ -24,7 +24,10 @@ Functionalities
 
 Visual (UI) overview
 - The seeding planner will be available through a tab or menu selection and can be customized to be the default home page
-- 
+- All of the fields of the farm will be displayed in some kind of grid format with the crops and locations
+- The insertion of crops
+- The seeding schedule will be generated based on the crop plan
+	- maybe this whole feature should be called crop planner, not seed 
 
 Stepthrough
 
