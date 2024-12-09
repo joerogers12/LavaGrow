@@ -1,7 +1,7 @@
 # LavaGrow
 
 Started: 10/19/2024
-Last Updated: 10/19/2024
+Last Updated: 12/8/2024
 
 Track, manage, and plan the growth of your crops
 
@@ -14,5 +14,7 @@ I had next to no experience creating software so I began creating spreadsheets t
 The problem with the spreadsheets is it required very precise input from users and on the farm there were several users and varying levels of data input interest. This lead to a mess of values in the sheets and a lot of necessary upkeep. Additionally, any time slight changes needed to be made like adding a crop name or parameter, there would need to be someone who knew how to do it. In the end, the spreadsheet method was not sustainable and after I left the farm it soon fell apart.
 
 I knew there must be a way to make the recordkeeping experience simple and effective for farms like this one. Now that I am studying software engineering in school, I am returning to this idea to create a product that will accomplish my original goal.
+
+The primary design goal for this software is to make it extremely inuitive and farmer-friendly. That means straightforward, quick inputs while out in the field with muddy gloves on. There shouldn't be any frustration or excess effort with this application-- The machine handles the analytics. However, there will also be an incredible amount of fine-tuning and custimization if anyone desires. This will make it ever more suited for each individual farm, large or small, tomato or tomato.
 
 Stay tuned for updates!
