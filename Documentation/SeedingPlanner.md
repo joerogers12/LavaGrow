@@ -15,6 +15,7 @@ Desired Functionalities:
 	- Want the view to model the actual layout of the farm beds and segment them off with appropriate spacings
 	- This could also cover permaculture design techniques and aid in designing those farms
 	- Should have the ability to start from a final harvest goal or take seeds at any stage of growth and incorporate into yield projections
+	- Give option to have some kind of full plan multi-add or single quick add, separate buttons for one-click ease
 
 Requirements covered
 - Plan seeding schedule
