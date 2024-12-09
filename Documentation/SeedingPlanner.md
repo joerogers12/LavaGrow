@@ -14,6 +14,7 @@ Desired Functionalities:
 		- Could have a model trained in farming, crops, optimized layout, etc.
 	- Want the view to model the actual layout of the farm beds and segment them off with appropriate spacings
 	- This could also cover permaculture design techniques and aid in designing those farms
+	- Should have the ability to start from a final harvest goal or take seeds at any stage of growth and incorporate into yield projections
 
 Requirements covered
 - Plan seeding schedule
