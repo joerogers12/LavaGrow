@@ -14,7 +14,7 @@ Failure End Condition: The chart remains without the proper new planting plan
 Basic Flow: 
 	1. User opens the app (no log in required for easy access)
 	2. User's main page is set to the planting chart
-	3. 
+	3. User clicks on the option to add new crop
 	
 Use Case 2
 Priority:
